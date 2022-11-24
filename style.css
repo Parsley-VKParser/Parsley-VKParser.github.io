@@ -1,0 +1,19 @@
+body{
+    background: url(parsley_background_2.png) lavender;
+    background-attachment: fixed;
+}
+div{
+    text-align: center;
+}
+.m_container {
+    border:solid;
+    border-radius: 5px;
+    border-color: black;
+    border-width: 3px;
+    background-color: antiquewhite;
+    padding: 10px;
+    display: block;
+    margin-inline: 30%;
+    margin-top: 5px;
+    min-height: 20px;
+}
